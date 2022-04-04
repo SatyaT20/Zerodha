@@ -9,7 +9,7 @@ public class one {
 	return c;
 	}
 public String test1() {
-	String a="satyajeet";
+	String a="satya";
 	System.out.println(a);
 return a;
 }
