@@ -1,0 +1,21 @@
+package sample;
+
+public class one {
+	public static int test() {
+		int a=5;
+		int b=6;
+		int c=a*b;
+	System.out.println(c);
+	return c;
+	}
+public String test1() {
+	String a="satyajeet";
+	System.out.println(a);
+return a;
+}
+public static void main(String[] args) {
+	test();
+	one x=new one();
+	x.test1();
+}
+}
