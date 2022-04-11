@@ -8,7 +8,7 @@ public class prameterisation {
 		
 	}
 	public static void b(float a, int b) {
-		float mult=a*b;
+		float mult=a-b;
 		System.out.println(mult);
 		
 	}
